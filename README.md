@@ -1,4 +1,4 @@
-Credit Card Fraud Detection System
+Credit Card Fraud Detection System.
 
 My project is about developing a credit card fraud detection system using machine learning and Python. The goal of the project is to use statistical algorithms and data analysis techniques to identify fraudulent credit card transactions and minimize financial losses for credit card issuers.
 
